@@ -1,0 +1,7 @@
+#Anotações
+
+## Links Úteis
+[Download Git](https://git-scm.com/downloads)
+
+[Guia básico Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
+
