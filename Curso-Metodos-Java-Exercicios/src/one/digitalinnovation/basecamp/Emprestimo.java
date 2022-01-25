@@ -1,5 +1,8 @@
 package one.digitalinnovation.basecamp;
 
+/**
+Exercicio para calcular um valor de emprestimo com juros de acordo com a quantidade de parcelas
+ */
 public class Emprestimo {
 
    public static int getDuasParcelas(){
