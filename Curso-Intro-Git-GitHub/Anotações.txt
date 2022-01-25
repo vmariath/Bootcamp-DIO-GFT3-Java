@@ -5,3 +5,17 @@
 
 [Guia básico Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
 
+## Comandos GitBash
+
+git clone // clona um repositorio no servidor para a pasta local atraves do link html na pagina do GitHub
+
+git pull origin main // Puxa um repositorio do servidor e tenta integrar os repositorio local com o do servidor, havendo alguma diferença entre as versões, aponta o erro e espera a resolução do dos conflitos
+
+git status // Visualisar o status da pasta, se tem novos arquivos para adicionar, modificados ou prontos para commitar
+
+git add . // adicionar os arquivos para o controle de versão local
+
+git commit -m "mensagem" // cria um commit local 
+
+git push origin main // enviar os commit locais para o GitHub no servidor
+
